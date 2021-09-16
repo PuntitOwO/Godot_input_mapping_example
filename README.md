@@ -1,2 +1,3 @@
-# Godot_input_mapping_example
-A simple Input remapping example that saves and loads configurations.
+# Godot input mapping example
+Un proyecto simple que permite configurar inputs personalizados, guardarlos y cargarlos automáticamente al abrir el juego.
+Información del funcionamiento en la Wiki
